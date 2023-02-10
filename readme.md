@@ -19,7 +19,7 @@
 ## About 👨
    
 <div align="center">
-  <p align="center">Soy estudiante de Analisis y Desarrollo de Software a la mitad de la carrera descubri este mundo de la programacion y ahora le dedico el 100% de mi tiempo a seguir aprendiendo. Me caracterizo por ser una persona autodidacta, atenta y con capacidad de adaptación a las nuevas tecnologías.</p>
+  <p align="center">Actualmente estoy interesado en el desarrollo de software y toda a su alrededor. Recientemente comencé con mi ruta back-end, capacitándome de un bootcamp y una tecnología.</p>
     </p>
 </div>
 
