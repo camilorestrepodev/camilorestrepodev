@@ -37,10 +37,9 @@
 </div>
 
 
+## Stats Developer 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilorestrepodev)](https://github.com/camilorestrepodev/github-readme-stats)
 
-
-  
-  
   
 ******
 ### - 📫 How to reach me: ...
