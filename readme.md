@@ -3,12 +3,10 @@
  <p align="center">
  <h1 align="center">Hi I'm Juan Camilo Restrepo<img src="https://media.giphy.com/media/W7Lz7rd1T4z7g4uS17/giphy.gif" width="80"/> </h1>
  <h4 align="center"> 
-     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+FullStack+Web+Developer"></a>
+     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+FullStack+Web+Developer">
+    </a>
 </h4>
-</p>
-<br>
-    
-
+</p> 
 
 ## About 👨
    
