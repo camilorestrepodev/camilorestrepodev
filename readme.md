@@ -37,14 +37,6 @@
 </div>
 
 
- ## Streaks 💻
-<div align="center">
-  <p align="center">My streaks</p>
-  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=lgcarlinf&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
- 
-  <br/>
- 
-</div>
 
 
   
@@ -63,11 +55,7 @@
    <p><label>camilorestrepob@hotmail.com</label></p>
    
    
-  ![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
-   
-   <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=lgcarlinf&color=24833e" alt="" width="12%" height="12%"/> 
-    </div>
+ 
 
 
 
