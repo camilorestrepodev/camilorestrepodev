@@ -8,13 +8,11 @@
 </h4>
 </p> 
 
-## About 👨
+## About me👨
    
 <div align="center">
-  <p align="center">Desarrollador Backend, con competencias en Java, MySQL, Spring, HTML, CSS, JavaScript, Postman y React. Con capacidades de pensamiento creativo, proactividad, disciplina e interés constante en aprender nuevas habilidades y herramientas. Comprometido con las tareas y acople a trabajos en equipo.</p>
-    </p>
+<p align="center">Desarrollador Backend, con competencias en Java, MySQL, Spring, HTML, CSS, JavaScript, Postman y React. Con capacidades de pensamiento creativo, proactividad, disciplina e interés constante en aprender nuevas habilidades y herramientas. Comprometido con las tareas y acople a trabajos en equipo.</p>
 </div>
-
 
 ## Tech & Tools Preference
 <div style="display: inline_block" align="center">
@@ -39,18 +37,19 @@
 ***
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilorestrepodev)](https://github.com/anuraghazra/github-readme-stats)
-
+***
+[![GitHub Streak](https://streak-stats.demolab.com/?user=camilorestrepodev)](https://git.io/streak-stats)
 ******
 ### - 📫 How to reach me: ...
    <p>
       <a href="https://www.linkedin.com/in/juan-camilo-restrepo-7a3593a6/">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
+         <img src="https://img.shields.io/badge/LinkedIn-blue" alt="Juan Camilo Restrepo LinkedIn Profile" height="20" width="70">
       </a>   
       <a align='right' href="mailto:camilorestrepob@hotmail.com">
-         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
-      </a>  
+         <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" width="80"/>
+      </a> 
    </p>
-   <p><label>camilorestrepob@hotmail.com</label></p>
+
    
    
  
