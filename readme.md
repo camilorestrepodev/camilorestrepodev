@@ -48,6 +48,9 @@
       <a align='right' href="mailto:camilorestrepob@hotmail.com">
          <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" width="80"/>
       </a> 
+      <a align='right' href="jucareba#1189">
+         <img alt="Email" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="20" width="80"/>
+      </a> 
    </p>
 
    
